@@ -4,7 +4,7 @@ Pics is a simple React application that uses the [unsplash](https://unsplash.com
 
 # Skills learned / utilized
 
-1. React / HTML / CSS
+1. [React](https://reactjs.org/) / [Semantic UI](https://semantic-ui.com/)
 2. [Axios](https://www.npmjs.com/package/axios) for communicating with the API
 3. NPM
 4. Javascript (ES6)
